@@ -255,7 +255,7 @@ brew cask install alfred atom appcleaner bartender google-chrome codekit command
 - [Wunderlist](https://www.wunderlist.com/)
 
 #### From Web
-- [Adobe Creative Cloud](www.adobe.com/creativecloud/desktop-app.html) *
+- [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
 - [Transmit](https://panic.com/transmit/) *
 - [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
 
