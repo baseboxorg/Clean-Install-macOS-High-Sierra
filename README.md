@@ -108,7 +108,7 @@ Dotfiles Private settings
 
 ```bash
 cd
-cd Dropbox/
+cd Dotfiles/
 mkdir_cd private
 touch env
 ```
