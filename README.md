@@ -218,7 +218,7 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 ##### Install Cask Apps
 
 ```bash
-brew cask install atom appcleaner bartender google-chrome codekit commander-one iterm2 liya macdown moom padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install atom appcleaner bartender google-chrome codekit commander-one goofy iterm2 liya macdown moom padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [Atom](https://atom.io/download/mac)
@@ -228,6 +228,7 @@ brew cask install atom appcleaner bartender google-chrome codekit commander-one 
 - [CodeKit](https://incident57.com/codekit/) *
 - [Commander One](http://mac.eltima.com/file-manager.html) *
 - [Dropbox](https://www.dropbox.com/downloading?os=mac)
+- [Goofy](http://www.goofyapp.com/)
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [Liya](https://cutedgesystems.com/software/liya/)
 - [MacDown](http://macdown.uranusjr.com/)
