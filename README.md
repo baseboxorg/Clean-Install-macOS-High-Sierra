@@ -170,11 +170,9 @@ CFLAGS="-I$(brew --prefix openssl)/include" LDFLAGS="-L$(brew --prefix openssl)/
 
 #Restart Terminal
 
-pyenv global 3.6.0
+CFLAGS="-I$(brew --prefix openssl)/include" LDFLAGS="-L$(brew --prefix openssl)/lib" CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline) --with-openssl-dir=$(brew --prefix)" PYTHON_CONFIGURE_OPTS=--enable-unicode=ucs2 pyenv install 2.7.12
 
-#Restart Terminal
-
-CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline) --with-openssl-dir=$(brew --prefix)" PYTHON_CONFIGURE_OPTS=--enable-unicode=ucs2 pyenv install 2.7.13
+pyenv global 2.7.12
 
 #Restart Terminal
 ```
