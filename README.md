@@ -143,6 +143,10 @@ git clone https://github.com/rbenv/rbenv-default-gems.git $(rbenv root)/plugins/
 
 nano $(rbenv root)/default-gems
 
+    # add these to the default-gems file
+    bundler
+    pry
+
 RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl) --with-readline-dir=$(brew --prefix readline) --with-libyaml-dir=$(brew --prefix libyaml)" rbenv install 2.4.0
 
 rbenv global 2.4.0 
