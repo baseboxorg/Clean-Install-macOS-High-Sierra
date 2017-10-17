@@ -208,7 +208,7 @@ brew tap caskroom/cask
 This Should be in your `.bash_profile` or Private Dotfile.
 
 ```bash
-export HOMEBREW_CASK_OPTS="--appdir=~/Applications --fontdir=/Library/Fonts"
+export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 ```
 
 ##### Install Cask Apps
