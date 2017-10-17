@@ -168,11 +168,15 @@ git clone https://github.com/pyenv/pyenv-virtualenvwrapper.git $(pyenv root)/plu
 
 CFLAGS="-I$(brew --prefix openssl)/include" LDFLAGS="-L$(brew --prefix openssl)/lib" CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline)" pyenv install 3.6.0
 
+pyenv global 3.6.0
+
 #Restart Terminal
+
+# For my old Python Projects. On old project folder:
 
 CFLAGS="-I$(brew --prefix openssl)/include" LDFLAGS="-L$(brew --prefix openssl)/lib" CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline) --with-openssl-dir=$(brew --prefix)" PYTHON_CONFIGURE_OPTS=--enable-unicode=ucs2 pyenv install 2.7.12
 
-pyenv global 2.7.12
+pyenv local 2.7.12
 
 #Restart Terminal
 ```
