@@ -110,15 +110,12 @@ Dotfiles Private settings
 cd
 cd Dotfiles/
 mkdir_cd private
-touch env
+ln -s ~/Dropbox/Dotfiles/private/alias ~/Dotfiles/private/alias
+ln -s ~/Dropbox/Dotfiles/private/env ~/Dotfiles/private/env
+ln -s ~/Dropbox/Dotfiles/private/functions ~/Dotfiles/private/functions
+ln -s ~/Dropbox/Dotfiles/private/my-ps1 ~/Dotfiles/private/my-ps1
 ```
 
-Write this to the `env` file
-
-```bash
-export PS1="${PS1_OSX_ADVANCED}"
-export VIRTUAL_ENV_DISABLE_PROMPT=1
-```
 Copy Dotfiles Colors
 
 ```bash
