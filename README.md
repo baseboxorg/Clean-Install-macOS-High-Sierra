@@ -68,7 +68,7 @@ Continue installation with your credentials.
 Install Brew Packages (instal.sh)
 
 ```bash
-brew install bash bash-completion coreutils curl fabric gettext git git-extras grep guetzli jpeg libffi libpng libyaml mysql nvm openssl openssl@1.1 pcre peco readline ssh-copy-id stormssh stormssh-completion tree wget xz youtube-dl
+brew install bash bash-completion coreutils curl fabric gettext git git-extras grep guetzli jpeg libffi libpng libyaml mysql node openssl openssl@1.1 pcre peco readline ssh-copy-id stormssh stormssh-completion tree wget xz youtube-dl
 
 #Restart Terminal
 ```
