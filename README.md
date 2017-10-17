@@ -261,13 +261,13 @@ brew cask install atom appcleaner bartender google-chrome codekit commander-one 
 - [Keynote](http://www.apple.com/mac/keynote/)
 - [Numbers](http://www.apple.com/mac/numbers/)
 - [Pages](http://www.apple.com/mac/pages/)
+- [Parcel](https://web.parcelapp.net/)
 - [Pixelmator](http://www.pixelmator.com/mac/)
 - [Screens](http://edovia.com/screens/)
 - [Sip](http://sipapp.io/)
 - [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Unclutter](http://unclutterapp.com/)
-- [Wunderlist](https://www.wunderlist.com/)
 
 #### From Web
 - [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
