@@ -137,6 +137,8 @@ ln -s ~/Dropbox/Dotfiles/configs/gitignore_global ~/.gitignore_global
 ```bash
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 
+#Restart Terminal
+
 git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
 
 git clone https://github.com/rbenv/rbenv-default-gems.git $(rbenv root)/plugins/rbenv-default-gems
@@ -158,12 +160,17 @@ rbenv global 2.4.0
 ### Install [Python](https://github.com/pyenv/pyenv)
 ```bash
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv 
+#Restart Terminal
 
 git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
 
 git clone https://github.com/pyenv/pyenv-virtualenvwrapper.git $(pyenv root)/plugins/pyenv-virtualenvwrapper
 
 CFLAGS="-I$(brew --prefix openssl)/include" LDFLAGS="-L$(brew --prefix openssl)/lib" CONFIGURE_OPTS="--with-readline-dir=$(brew --prefix readline)" pyenv install 3.6.0
+
+#Restart Terminal
+
+pyenv global 3.6.0
 
 #Restart Terminal
 ```
@@ -207,10 +214,9 @@ export HOMEBREW_CASK_OPTS="--appdir=~/Applications --fontdir=/Library/Fonts"
 ##### Install Cask Apps
 
 ```bash
-brew cask install alfred atom appcleaner bartender google-chrome codekit commander-one iterm2 liya macdown moom padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install atom appcleaner bartender google-chrome codekit commander-one iterm2 liya macdown moom padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
-- [Alfred](https://www.alfredapp.com/) * 
 - [Atom](https://atom.io/download/mac)
 - [Appcleaner](https://freemacsoft.net/appcleaner/)
 - [Bartender 2](https://www.macbartender.com/) *
