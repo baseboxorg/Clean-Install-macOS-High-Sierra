@@ -23,11 +23,10 @@ sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createins
 ### Backup
 Backup Your files to Dropbox.
 
-*don't forget your your ssh keys:*
+*don't forget your important files like ssh keys:*
 
 ```bash
 cp -R ~/.ssh ~/Dropbox/
-cp -R ~/Dotfiles/private ~/Dropbox/private
 ```
 
 ---
