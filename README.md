@@ -81,6 +81,7 @@ mkdir ~/.ssh
 cd Dropbox/.ssh 
 cp id_rsa* ~/.ssh/
 ln -s ~/Dropbox/Dotfiles/configs/ssh_config ~/.ssh/config
+chmod 400 ~/.ssh/id_rsa
 ```
 
 Set Permissions 
