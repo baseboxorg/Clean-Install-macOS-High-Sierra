@@ -259,7 +259,6 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [Pages](http://www.apple.com/mac/pages/)
 - [Parcel](https://web.parcelapp.net/)
 - [Pixelmator](http://www.pixelmator.com/mac/)
-- [Screens](http://edovia.com/screens/)
 - [Sip](http://sipapp.io/)
 - [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
@@ -267,12 +266,12 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 
 ### From Web
 - [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
+- [Screens](http://edovia.com/screens/) *
 - [Transmit](https://panic.com/transmit/) *
-- [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
 - [TrCharChange](https://github.com/tarikkavaz/TrCharChange)
+- [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
 
 ### Themes
-
 - [Solarized color palette](http://ethanschoonover.com/solarized)
 - [iTerm themes](http://iterm2colorschemes.com/)
 
