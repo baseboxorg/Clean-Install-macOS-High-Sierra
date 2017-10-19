@@ -215,20 +215,21 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 #### Install Cask Apps
 
 ```bash
-brew cask install atom appcleaner bartender google-chrome codekit commander-one goofy iterm2 liya macdown moom padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [Atom](https://atom.io/download/mac)
 - [Appcleaner](https://freemacsoft.net/appcleaner/)
 - [Bartender 2](https://www.macbartender.com/) *
+- [Calibre](https://calibre-ebook.com/download)
 - [Chrome](https://www.google.com/chrome/browser/desktop/)
 - [CodeKit](https://incident57.com/codekit/) *
 - [Commander One](http://mac.eltima.com/file-manager.html) *
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Goofy](http://www.goofyapp.com/)
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [Liya](https://cutedgesystems.com/software/liya/)
 - [MacDown](http://macdown.uranusjr.com/)
-- [Moom](https://manytricks.com/moom/) *
 - [Padbury Clock](http://padbury.me/clock/)
 - [PhoneClean](http://www.imobie.com/phoneclean/)
 - [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
@@ -248,13 +249,12 @@ brew cask install atom appcleaner bartender google-chrome codekit commander-one 
 - [WhatsApp Messenger](https://www.whatsapp.com/download/)
 - [ZenMate](https://secure.zenmate.com/)
 
-
-
 ### From App Store
 - [1Password](https://1password.com/)
 - [Airmail 3](http://airmailapp.com/)
 - [Feedly](http://feedly.com/)
 - [Keynote](http://www.apple.com/mac/keynote/)
+- [Moom](https://manytricks.com/moom/)
 - [Numbers](http://www.apple.com/mac/numbers/)
 - [Pages](http://www.apple.com/mac/pages/)
 - [Parcel](https://web.parcelapp.net/)
@@ -269,6 +269,7 @@ brew cask install atom appcleaner bartender google-chrome codekit commander-one 
 - [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
 - [Transmit](https://panic.com/transmit/) *
 - [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
+- [TrCharChange](https://github.com/tarikkavaz/TrCharChange)
 
 ### Themes
 
