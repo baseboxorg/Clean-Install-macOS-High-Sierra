@@ -64,7 +64,7 @@ Continue installation with your credentials.
 Install Brew Packages (instal.sh)
 
 ```bash
-brew install bash bash-completion coreutils curl fabric gettext git git-extras grep guetzli jpeg libffi libpng libyaml mysql node nvm openssl openssl@1.1 pcre peco readline ssh-copy-id stormssh stormssh-completion tree wget xz youtube-dl
+brew install bash bash-completion coreutils curl fabric gettext git git-extras grep guetzli jpeg libffi libpng libyaml mas mysql node nvm openssl openssl@1.1 pcre peco readline ssh-copy-id stormssh stormssh-completion tree wget xz youtube-dl
 # Restart Terminal
 ```
 
@@ -263,6 +263,12 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Unclutter](http://unclutterapp.com/)
+
+#### Or use [mas](https://github.com/mas-cli/mas)
+
+```bash
+mas install 577085396; mas install 639968404; mas install 409183694; mas install 485812721; mas install 443987910; mas install 918858936; mas install 507257563; mas install 407963104; mas install 409201541; mas install 865500966; mas install 747648890; mas install 409203825
+```
 
 ### From Web
 - [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
