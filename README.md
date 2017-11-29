@@ -258,7 +258,7 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [Numbers](http://www.apple.com/mac/numbers/)
 - [Pages](http://www.apple.com/mac/pages/)
 - [Parcel](https://web.parcelapp.net/)
-- [Pixelmator](http://www.pixelmator.com/mac/)
+- [Pixelmator Pro](http://www.pixelmator.com/pro/)
 - [Sip](http://sipapp.io/)
 - [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
