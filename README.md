@@ -215,7 +215,7 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 #### Install Cask Apps
 
 ```bash
-brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver  virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [Atom](https://atom.io/download/mac)
@@ -230,6 +230,7 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [Liya](https://cutedgesystems.com/software/liya/)
 - [MacDown](http://macdown.uranusjr.com/)
+- [mpv](https://mpv.io/)
 - [Padbury Clock](http://padbury.me/clock/)
 - [PhoneClean](http://www.imobie.com/phoneclean/)
 - [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
@@ -243,7 +244,6 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [TeamViewer](https://www.teamviewer.com/en/download/mac/)
 - [TripMode](https://www.tripmode.ch) *
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
-- [VLC](http://www.videolan.org/vlc/index.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [WALTR](https://softorino.com/waltr) *
 - [WhatsApp Messenger](https://www.whatsapp.com/download/)
@@ -284,3 +284,11 @@ mas install 577085396 639968404 409183694 1196268448 485812721 443987910 9188589
 
 `*` = needs Registration
 
+### App conf's
+
+mpv conf files
+```bash
+ln -s ~/Dropbox/Dotfiles/private/mpv/encoding-profiles.conf ~/.config/mpv/encoding-profiles.conf
+ln -s ~/Dropbox/Dotfiles/private/mpv/input.conf ~/.config/mpv/input.conf
+ln -s ~/Dropbox/Dotfiles/private/mpv/mpv.conf ~/.config/mpv/mpv.conf
+```
