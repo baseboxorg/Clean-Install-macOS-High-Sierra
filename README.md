@@ -270,6 +270,9 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 mas install 577085396 639968404 409183694 1196268448 485812721 443987910 918858936 507257563 409201541 865500966 747648890 409203825 1289583905
 ```
 
+#### Homebrew Bundle
+Create your own [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle) for installing all your apps and dependencies with one single file 
+
 ### From Web
 - [Adobe Creative Cloud](http://www.adobe.com/creativecloud/desktop-app.html) *
 - [Screens](http://edovia.com/screens/) *
