@@ -215,7 +215,7 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 #### Install Cask Apps
 
 ```bash
-brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver  virtualbox waltr whatsapp zenmate-vpn
+brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [Atom](https://atom.io/download/mac)
