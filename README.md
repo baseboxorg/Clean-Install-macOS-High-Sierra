@@ -212,12 +212,18 @@ Check if you have it already in your symlinked files like `env`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications --fontdir=/Library/Fonts"
 ```
 
+#### Install [Cask Updater](https://github.com/buo/homebrew-cask-upgrade)
+```
+brew tap buo/cask-upgrade
+```
+
 #### Install Cask Apps
 
 ```bash
-brew cask install atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install 1password 1password-cli atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown moom mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro sip slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
+- [1Password](https://1password.com/)
 - [Atom](https://atom.io/download/mac)
 - [Appcleaner](https://freemacsoft.net/appcleaner/)
 - [Bartender 2](https://www.macbartender.com/) *
@@ -230,6 +236,7 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [Liya](https://cutedgesystems.com/software/liya/)
 - [MacDown](http://macdown.uranusjr.com/)
+- [Moom](https://manytricks.com/moom/)
 - [mpv](https://mpv.io/)
 - [Padbury Clock](http://padbury.me/clock/)
 - [PhoneClean](http://www.imobie.com/phoneclean/)
@@ -239,6 +246,7 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [Skype](http://www.skype.com/en/download-skype/skype-for-mac/downloading/)
 - [Spotify](https://www.spotify.com/us/download/)
 - [Sequel-Pro](https://www.sequelpro.com/)
+- [Sip](http://sipapp.io/)
 - [Slack](https://slack.com/)
 - [TextMate](https://macromates.com/download) *
 - [TeamViewer](https://www.teamviewer.com/en/download/mac/)
@@ -250,16 +258,14 @@ brew cask install atom appcleaner bartender calibre google-chrome codekit comman
 - [ZenMate](https://secure.zenmate.com/)
 
 ### From App Store
-- [1Password](https://1password.com/)
+
 - [Airmail 3](http://airmailapp.com/)
 - [Feedly](http://feedly.com/)
 - [Keynote](http://www.apple.com/mac/keynote/)
-- [Moom](https://manytricks.com/moom/)
 - [Numbers](http://www.apple.com/mac/numbers/)
 - [Pages](http://www.apple.com/mac/pages/)
 - [Parcel](https://web.parcelapp.net/)
 - [Pixelmator Pro](http://www.pixelmator.com/pro/)
-- [Sip](http://sipapp.io/)
 - [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Unclutter](http://unclutterapp.com/)
