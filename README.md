@@ -220,7 +220,7 @@ brew tap buo/cask-upgrade
 #### Install Cask Apps
 
 ```bash
-brew cask install 1password 1password-cli atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown moom mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro sip slack textmate teamviewer tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install 1password 1password-cli atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown moom mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro sip slack textmate teamviewer telegram tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [1Password](https://1password.com/)
@@ -250,6 +250,7 @@ brew cask install 1password 1password-cli atom appcleaner bartender calibre goog
 - [Slack](https://slack.com/)
 - [TextMate](https://macromates.com/download) *
 - [TeamViewer](https://www.teamviewer.com/en/download/mac/)
+- [Telegram](https://telegram.org/)
 - [TripMode](https://www.tripmode.ch) *
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -266,7 +267,6 @@ brew cask install 1password 1password-cli atom appcleaner bartender calibre goog
 - [Pages](http://www.apple.com/mac/pages/)
 - [Parcel](https://web.parcelapp.net/)
 - [Pixelmator Pro](http://www.pixelmator.com/pro/)
-- [Telegram](https://telegram.org/)
 - [TweetDeck](https://tweetdeck.twitter.com/)
 - [Unclutter](http://unclutterapp.com/)
 
