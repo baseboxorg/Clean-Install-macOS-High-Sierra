@@ -220,7 +220,7 @@ brew tap buo/cask-upgrade
 #### Install Cask Apps
 
 ```bash
-brew cask install 1password 1password-cli atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown moom mpv padbury-clock phoneclean qlImageSize qlmarkdown screens-connect skype spotify sequel-pro sip slack textmate teamviewer telegram tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
+brew cask install 1password 1password-cli atom appcleaner bartender calibre google-chrome codekit commander-one firefox goofy iterm2 liya macdown moom padbury-clock qlImageSize qlmarkdown screens-connect skype spotify sequel-pro sip slack textmate teamviewer telegram tripmode the-unarchiver vlc virtualbox waltr whatsapp zenmate-vpn
 ```
 
 - [1Password](https://1password.com/)
@@ -237,9 +237,7 @@ brew cask install 1password 1password-cli atom appcleaner bartender calibre goog
 - [Liya](https://cutedgesystems.com/software/liya/)
 - [MacDown](http://macdown.uranusjr.com/)
 - [Moom](https://manytricks.com/moom/)
-- [mpv](https://mpv.io/)
 - [Padbury Clock](http://padbury.me/clock/)
-- [PhoneClean](http://www.imobie.com/phoneclean/)
 - [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 - [QuickLook Markdown](https://github.com/toland/qlmarkdown/)
 - [Screens Connect](http://edovia.com/screensconnect/download/)
@@ -293,11 +291,4 @@ Create your own [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle) f
 
 `*` = needs Registration
 
-### App conf's
 
-mpv conf files
-```bash
-ln -s ~/Dropbox/Dotfiles/private/mpv/encoding-profiles.conf ~/.config/mpv/encoding-profiles.conf
-ln -s ~/Dropbox/Dotfiles/private/mpv/input.conf ~/.config/mpv/input.conf
-ln -s ~/Dropbox/Dotfiles/private/mpv/mpv.conf ~/.config/mpv/mpv.conf
-```
